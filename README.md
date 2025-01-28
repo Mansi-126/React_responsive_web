@@ -1,1 +1,3 @@
-# React_responsive_web
+# React_responsive
+
+this is React Responsive website
