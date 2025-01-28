@@ -1,3 +1,3 @@
-# React_responsive
+# React_Project
 
 this is React Responsive website
